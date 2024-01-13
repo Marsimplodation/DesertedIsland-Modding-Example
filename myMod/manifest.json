@@ -1,0 +1,8 @@
+{
+    "Name": "myMod",
+    "Author": "Your Name",
+    "Version": "1.0",
+    "Description": "A simple mod for your Unity game.",
+    "mainScript": "src/main.lua",
+    "Dependencies": []
+  }

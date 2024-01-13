@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 79736345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b375b2f9aa6f6a3ff7603343d9f35cc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fd8ea5bc3c5872b967ef9d42a9450a6d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b375b2f9aa6f6a3ff7603343d9f35cc4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/sampleModBundle/test.mat
+- Assets/BundledAssets/sampleModBundle/Sphere.prefab
+- Assets/BundledAssets/sampleModBundle/Orb.prefab
+Dependencies: []
